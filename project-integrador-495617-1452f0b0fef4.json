@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "project-integrador-495617",
+  "private_key_id": "1452f0b0fef4d11eda2c680ac18a758f285869b1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDj1pvNQHFMe79Q\nQEDNFZnbYJW7PVIJCbNAL16+eLae3tIS2Txb4GffJRXIPqK5zl/8hUiPRl8YBxk2\nGVnmt6WLFljsgmikP46Ki3QSZlXte+wgZV9bSTUNkpUR4M1KO+YT67EbxNCFKQIQ\nWLkAe3SHxhn7Nm394lxt+QFYAUfRV7BUCBz8fOROB7XsuXeHAytKcY85JlFjTbDJ\nsKE0WLoAA58tbzIVz9f8v8BbUUdT2BLgKDJdnxIyuJamci6iLQNwoqeENvYL+RLh\no6HU3MCSh/Y7Zs6IKmwc9XMiUp8OIdOKEQTKl8yd+9JXbUk1vfwXqHmRb5Ai9ux5\nPEn1L2HtAgMBAAECggEAA14q/+n1ssh6f7xvaMiqtU40cGfb5FPPIUIB/8VHh8op\n50rsRDxpNKh27baVT7NQAmrS84E6CyAhvIW76TfqO8fZCSf1VYY1/HDKxrHaD9Be\n4Wy2L+KBZQG3b+P3jOMdR8qaW9t5LJq6U9UH6QyqII6qWCcKEbBsptiBL1SXg+3l\ngfaduj7I5voD07LpLfvx0bSB5wpK4s5LhirfOjrxGgiBdQwym3Qic8HmKNjyJikp\n3mT44DscPl4lFCagD0BfZWtEjhMwwDMbyKXZw1Zq0X9VoG+51qKT8riebCqpPeef\nix3EQEP5FZqJPx/zy5nj+XuTPcIhYS+kHtxGP/6goQKBgQD42yr2yK5GmTEeBxQV\nNA3urx4WGSNTGP+3h9U/9i3jdn+4In06OTKHigBtBApCRlzx21Tn+L+hvKeByoFe\nIn6lp2VxdbCIqBAwugekp7rqEFAAa4vDWPpVQfSw3+w1YHhbnJm7PYCAAMaYalNy\nyoy7LRNqvbbLHSf6jVcRAwdNoQKBgQDqYPtbOQXfgO70/dQwmu95nFzkVc2AJagy\nWM8NtdTdz5TRSx50a2HQpFXGwa3y/SWAZpOqRBvDT9hHt3w4lTxunxzYrt1qDM7K\n1Q8puFk5j9qDHlArZPyJduXEO2AHW2GanT9uie1BfrhnZu/5SWJitXQIVKXFzEK9\nuuc9w3s4zQKBgQCT+e8wU+CdhlZYnqjoes2WEnd3eHcy4Hieb5z0rbRXv4zut0Nz\nrbNIOV1Ldc2L3z9BacSxM47v47hPS1Vl3mkko8eEkhDpEdaewt/snvhcWlrYBRtU\ni8I/lDqmOmDA1J59Cz+2wTl54/wzgXYhmiPY4VLcc/cQDERLjmQpb32WQQKBgFPk\ndtQGKyX/Hokuud7T9lfPMijA1ZfC4ttyklpT9WeXv6rSeootTYvC5rkH5l2NYvj8\nvmo5ir50O/QfpyURtdnathaRMMue3f4YGR9Tzwwdg5dfKE8ADKyflEqS/iJkASG4\nm1XTpMrGsvbAD7FpJQAz9t5sfhG4tUL4PYEMEXUZAoGANq4qL2soVmZMFsdmgOLB\niJFElhkXqmf0yLd4t0hM/HR1uSMrbCkS7169VrP9BiPtE56HZnOF9z5CeqWXLp5/\nuqZpyE9fPsqj0cyHusphyf9QXxnAeOt+JJN21ICd/EGFsIjlfFQGYtG+G2xZLkCI\ndeOD61ypkueMQC5p1Fc7MxM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "teste-alpha-tech1@project-integrador-495617.iam.gserviceaccount.com",
+  "client_id": "105352402753955358756",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/teste-alpha-tech1%40project-integrador-495617.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
